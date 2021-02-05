@@ -3,3 +3,7 @@
 [[package]]
 name = "last-word-count"
 version = "0.1.0"
+
+[[package]]
+name = "plus_one"
+version = "0.1.0"
