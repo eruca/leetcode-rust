@@ -1,2 +1,2 @@
 [workspace]
-members = ["last-word-count", "plus_one"]
+members = ["last-word-count", "plus_one","add_binary"]
